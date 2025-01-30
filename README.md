@@ -7,6 +7,16 @@
 
 # ToolboxKit (Python Edition)
 
+The goal of ToolboxKit is to offer high level simplified functions to solve various tasks that can be repetitive or without any good user centered feedbacks (UX).
+
+# Installation
+
+## Pip command
+
+`pip install toolboxkit`
+
+View the module's PyPI Website at: https://pypi.org/project/toolboxkit/
+
 
 <!-- md links & imgs -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
